@@ -1,0 +1,5 @@
+# Library dependencies for the python code.  
+# Install these with `pip install -r requirements.txt`.
+
+# For parsing YMAL file in Python
+pyyaml
